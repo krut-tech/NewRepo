@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\fmUserAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmBrandAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmColorAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Model\frmProductAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SampleView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\frmBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmColorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmDashboardView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmProductView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmSettingView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\frmUserView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="InvoiceDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
